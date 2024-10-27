@@ -9,7 +9,7 @@ Diabetic Retinopathy is a severe eye condition that affects individuals with dia
 https://www.kaggle.com/code/aayuzzzz/dr-new
 ## SELF CNN & FASTAI DRNET : 
 https://www.kaggle.com/code/aayuzzzz/self-dr-best
-
+ 
 # Key Features
 Pretrained Models Used: VGG19, VGG16, ResNet 101, ResNet 50, EfficientNet, MobileNet, and Inception.
 
